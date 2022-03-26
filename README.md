@@ -6,3 +6,4 @@ This repository made for signal processing lab for student, the script written i
 2. Write a program to generate the continuous time (i) unit step (ii) unit impulse (iii) ramp and  (iv) periodic sinusoidal sequence. Plot all the signals in a single figure.
 3. Write a program to generate the discrete time (i) unit step (ii) unit impulse (iii) ramp and  (iv) periodic sinusoidal sequence. Plot all the signals in a single figure.
 4. write a program to perform the following operation on continuous time signals (i) addition (ii) subtraction (iii) multiplication (iv) amplitude and time scaling and (v) odd and even components of a signal.
+5. Write a program to verify the following  properties of a given system in continuous/discrete-time (i) Causal and Non-causal System (ii) Static (Memory less) and Dynamic(with Memory) System (iii) Linear and Nonlinear System and (iv) Time-Invariant and Time-variant System
